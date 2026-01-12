@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+pubchempy
+beautifulsoup4
+requests
+rdkit
+biopython
+fpdf2
