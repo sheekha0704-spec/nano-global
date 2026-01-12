@@ -54,7 +54,7 @@ OIL_RHLB = {"Capryol 90": 11.0, "Oleic Acid": 17.0, "Castor Oil": 14.0, "Olive O
 
 # --- ONLINE DATABASE URL ---
 # Replace this with your GitHub Raw URL
-DATABASE_URL = "https://raw.githubusercontent.com/YourUsername/Repo/main/master_nano_data.csv"
+DATABASE_URL = "https://github.com/sheekha0704-spec/nano-global/raw/refs/heads/main/master_nano_data.csv"
 
 # --- 1. DATA ENGINE (ONLINE FETCH) ---
 @st.cache_resource
