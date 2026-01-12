@@ -1,0 +1,13 @@
+Drug_Name,Oil_phase,Surfactant,Co-surfactant,Oil_p,Smix_p,Water_p,Size_nm,PDI,Zeta_mV,Drug_Loading,Encapsulation_Efficiency,Stability
+Paclitaxel,Capryol 90,Tween 80,PEG 400,10,30,60,112.5,0.18,-24.5,5.2,88.4,Stable
+Curcumin,Oleic Acid,Tween 20,Ethanol,15,45,40,145.2,0.22,-18.3,8.5,92.1,Stable
+Ibuprofen,Castor Oil,Cremophor EL,Transcutol P,12,35,53,168.0,0.25,-32.1,10.2,85.6,Stable
+Ketoconazole,Olive Oil,Labrasol,Ethanol,20,40,40,189.4,0.28,-12.5,4.8,78.9,Stable
+Celecoxib,Capryol 90,Tween 80,Transcutol P,8,32,60,98.6,0.15,-28.4,7.4,94.2,Stable
+Dexamethasone,Labrafac,Tween 20,PEG 400,15,50,35,130.5,0.19,-21.0,3.2,89.5,Stable
+Quercetin,Olive Oil,Cremophor EL,Transcutol P,10,40,50,155.2,0.24,-15.8,6.5,81.3,Stable
+Saquinavir,Castor Oil,Tween 80,Ethanol,25,35,40,210.4,0.35,-10.2,12.5,72.4,Unstable
+Atorvastatin,Capryol 90,Tween 20,PEG 400,10,40,50,122.8,0.17,-26.7,9.1,91.0,Stable
+Cinnarizine,Oleic Acid,Labrasol,Transcutol P,15,30,55,175.4,0.21,-19.5,5.5,87.6,Stable
+Nifedipine,Olive Oil,Tween 80,Ethanol,12,45,43,142.1,0.23,-22.4,4.2,84.5,Stable
+Flurbiprofen,Capryol 90,Cremophor EL,PEG 400,7,28,65,85.2,0.12,-30.1,6.8,96.3,Stable
